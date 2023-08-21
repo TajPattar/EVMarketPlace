@@ -1,0 +1,16 @@
+{
+  "modellist": ["Model 3"],
+  "vehicles": [{
+    "chargerinstallcost": 650,
+    "chargingcost": 3,
+    "colour": "grey",
+    "year": 2023,
+    "rebate": 9000,
+    "price": 56990,
+    "range": 438,
+    "model": "Model 3",
+    "make": "Tesla",
+    "status": "new",
+    "mileage": 0
+  }]
+}
